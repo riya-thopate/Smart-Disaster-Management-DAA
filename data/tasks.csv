@@ -1,0 +1,8 @@
+task_id,task_name,depends_on
+T1,Assess emergency,-
+T2,Dispatch rescue teams,T1
+T3,Secure evacuation roads,T1
+T4,Prepare shelters,T1
+T5,Deliver relief resources,T2;T4
+T6,Begin evacuation,T3;T4;T5
+T7,Confirm area safety,T6

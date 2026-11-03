@@ -1,0 +1,6 @@
+job_id,job_name,deadline,priority_value
+J1,Initial hazard assessment,2,100
+J2,Prepare emergency shelter,1,80
+J3,Dispatch fire response team,2,70
+J4,Deliver medical supplies,3,60
+J5,Issue public safety alert,1,40

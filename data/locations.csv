@@ -1,0 +1,13 @@
+location_id,name,type,x,y
+L1,Central Junction,JUNCTION,10,10
+L2,North Junction,JUNCTION,10,20
+L3,East Junction,JUNCTION,20,10
+L4,West Junction,JUNCTION,0,10
+L5,South Junction,JUNCTION,10,0
+L6,City Hospital,HOSPITAL,20,20
+L7,Central Shelter,SHELTER,0,20
+L8,Emergency Center,EMERGENCY_CENTER,20,0
+L9,North Shelter,SHELTER,10,30
+L10,Industrial Area,AREA,30,10
+L11,School Ground,SHELTER,30,20
+L12,Market Area,AREA,20,30

@@ -1,0 +1,4 @@
+emergency_id,location_id,type,severity,affected_people,required_resource,status
+E1,L10,FIRE,CRITICAL,150,WATER,ACTIVE
+E2,L12,FLOOD,HIGH,250,FOOD,ACTIVE
+E3,L5,ACCIDENT,HIGH,50,MEDICINE,ACTIVE

@@ -1,0 +1,5 @@
+team_id,name,type,location_id,capacity,status
+T1,Alpha Team,FIRE,L1,50,AVAILABLE
+T2,Bravo Team,FLOOD,L7,100,AVAILABLE
+T3,Charlie Team,MEDICAL,L6,30,AVAILABLE
+T4,Delta Team,GENERAL,L8,70,AVAILABLE

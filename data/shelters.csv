@@ -1,0 +1,4 @@
+shelter_id,location_id,name,total_capacity,occupied,status
+S1,L7,Central Shelter,500,120,OPEN
+S2,L9,North Shelter,400,80,OPEN
+S3,L11,School Ground Shelter,600,200,OPEN

@@ -1,0 +1,4 @@
+- [x] Build shared mock city, emergency, shelter, team, resource, and algorithm data.
+- [x] Build persistent control-room shell and all ten connected views.
+- [x] Add interactive city graph, mock route optimization, emergency details/report, simulation, and reports.
+- [x] Verify desktop/mobile presentation and interactions.

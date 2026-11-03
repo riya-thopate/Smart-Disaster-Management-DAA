@@ -1,0 +1,4 @@
+emergency_id,type,severity,location_id,location_name,affected_people,required_resource,status
+E1,FIRE,CRITICAL,L10,Industrial Area,150,WATER,ACTIVE
+E2,FLOOD,HIGH,L12,Market Area,250,FOOD,ACTIVE
+E3,ACCIDENT,HIGH,L5,South Junction,50,MEDICINE,ACTIVE
